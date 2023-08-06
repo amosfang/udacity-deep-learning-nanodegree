@@ -14,8 +14,7 @@ I've chosen to complete this nanodegree, in order to join the next generation of
 
 Begin by learning the fundamentals of deep learning. Then examine the foundational algorithms underpinning modern deep learning: gradient descent and backpropagation. Once those foundations are established, explore design constructs of neural networks and the impact of these design decisions. Finally, the course explores how neural network training can be optimized for accuracy and robustness.
 
-![**Project 1 - Developing a Handwritten Digits classifier with PyTorch**](./udacity-deep-learning-nanodegree
-/1. Introduction to Deep Learning/)
+**Project 1 - Developing a Handwritten Digits classifier with PyTorch**
 
 ### Convolutional Neural Networks
 
