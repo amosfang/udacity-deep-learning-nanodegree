@@ -1,6 +1,9 @@
-# Udacity Deep Learning Nanodegree
+# Udacity Deep Learning Nanodegree 2023
 
 To develop the next generation of deep learning talent that will help define a highly beneficial AI-powered future for our world. In this program, I've studied cutting-edge topics such as neural networks, convolutional neural networks, recurrent neural networks, and generative adversarial networks.
+
+### Status
+Completed
 
 ### Prerequisites
 - Intermediate Python
