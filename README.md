@@ -1,6 +1,6 @@
 # Udacity Deep Learning Nanodegree
 
-I've chosen to complete this nanodegree, in order to join the next generation of deep learning talent that will help define a highly beneficial AI-powered future for our world. In this program, I have studied cutting-edge topics such as neural networks, convolutional neural networks, recurrent neural networks, and generative adversarial networks.
+To develop the next generation of deep learning talent that will help define a highly beneficial AI-powered future for our world. In this program, I've studied cutting-edge topics such as neural networks, convolutional neural networks, recurrent neural networks, and generative adversarial networks.
 
 ### Prerequisites
 - Intermediate Python
@@ -12,7 +12,7 @@ I've chosen to complete this nanodegree, in order to join the next generation of
 
 ### Introduction to Deep Learning
 
-Begin by learning the fundamentals of deep learning. Then examine the foundational algorithms underpinning modern deep learning: gradient descent and backpropagation. Once those foundations are established, explore design constructs of neural networks and the impact of these design decisions. Finally, the course explores how neural network training can be optimized for accuracy and robustness.
+Start by learning the fundamentals of deep learning, and then examining the foundational algorithms underpinning modern deep learning: gradient descent and backpropagation. Once those foundations are established, explore design constructs of neural networks and the impact of these design decisions. Finally, the course explores how neural network training can be optimized for accuracy and robustness.
 
 **Project 1 - Developing a Handwritten Digits classifier with PyTorch**
 
